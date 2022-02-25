@@ -2,7 +2,7 @@
 - 👀 I’m a total newbie to github
 - 🌱 I’ve opened an account because i want to start a digital garden
 - 💞️ I’m looking to collaborate on digital gardening!
-- 📫 How to reach me ... tbc
+- 📫 How to reach me ... here, for now.
 
 <!---
 ricoger/ricoger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
